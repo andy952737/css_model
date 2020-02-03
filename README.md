@@ -1,1 +1,1 @@
-# css_model
+# CSS/RWD Model
