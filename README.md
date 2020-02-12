@@ -1,5 +1,8 @@
 # CSS/RWD Model
  
 # file
-> index.css
-> rwd.css
+- index.css
+- rwd.css
+
+# basic layout
+- index
